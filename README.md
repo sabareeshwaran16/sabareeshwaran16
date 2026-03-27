@@ -97,12 +97,9 @@ YOLOv8 • OpenCV • Scikit-learn • NumPy • FastAPI • WebSockets
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabareeshwaran16&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabareeshwaran16&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
-
----
 
 ## 🔥 Streak Stats
 
