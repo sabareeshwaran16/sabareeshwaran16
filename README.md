@@ -115,7 +115,7 @@ YOLOv8 • OpenCV • Scikit-learn • NumPy • FastAPI • WebSockets
 ## 📫 Connect with Me
 
 * 📧 [sabareeshwaran.b2024ece@sece.ac.in](mailto:sabareeshwaran.b2024ece@sece.ac.in)
-* 🔗 Add your LinkedIn here
+* 🔗 [Add your LinkedIn here](https://www.linkedin.com/in/sabareeshwaranb/)
 
 ---
 
