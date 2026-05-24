@@ -276,14 +276,13 @@ Profile Link
 </div>
 
 ---
----
-
 # <p align="center">🐍 Contribution Snake</p>
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/sabareeshwaran16/sabareeshwaran16/output/github-contribution-grid-snake-dark.svg"/>
 
+</div>
 </div>
 
 ---
