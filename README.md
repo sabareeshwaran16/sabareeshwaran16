@@ -245,17 +245,7 @@ Profile Link
 
 ---
 
-# <p align="center">📈 GitHub Analytics</p>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sabareeshwaran16&show_icons=true&theme=radical"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabareeshwaran16&layout=compact&theme=radical"/>
-
-</div>
-
----
 
 # <p align="center">🔥 GitHub Streak</p>
 
@@ -285,43 +275,61 @@ Profile Link
 
 ---
 
+<!-- ============================ RESUME ============================ -->
+
 # <p align="center">📄 Resume</p>
 
 <div align="center">
 
 <a href="https://drive.google.com/file/d/1QXsmLZ8Gu7Pca9tkOzgAHNpeHTiq7Bjn/view?usp=sharing">
-<img src="https://img.shields.io/badge/View%20Resume-0EA5E9?style=for-the-badge&logo=googledrive&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/🚀%20View%20My%20Resume-111111?style=for-the-badge&logo=googledrive&logoColor=white"/>
+
 </a>
 
 </div>
 
 ---
+
+<!-- ============================ CONNECT ============================ -->
 
 # <p align="center">🌐 Connect With Me</p>
 
 <div align="center">
 
 <a href="https://github.com/sabareeshwaran16">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/sabareeshwaranb/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:sabareeshwaran.b2024ece@sece.ac.in">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Let's+Connect!;Open+to+Collaborations;Building+Innovative+Projects"/>
+
+</div>
+
 ---
+
+<!-- ============================ PROFILE VIEWS ============================ -->
 
 # <p align="center">👀 Profile Views</p>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sabareeshwaran16&style=for-the-badge&color=0EA5E9"/>
+<img src="https://komarev.com/ghpvc/?username=sabareeshwaran16&label=PROFILE+VIEWS&style=for-the-badge&color=111111"/>
 
 </div>
 
@@ -329,6 +337,12 @@ Profile Link
 
 <div align="center">
 
-### ⭐ Engineering Intelligent Systems For Real-World Problems ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=120&section=footer"/>
+
+</div>
+
+<div align="center">
+
+### ⭐ BUILDING INTELLIGENT SYSTEMS FOR REAL-WORLD PROBLEMS ⭐
 
 </div>
