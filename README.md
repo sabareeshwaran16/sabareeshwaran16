@@ -1,119 +1,214 @@
-<!-- Banner -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Sabareeshwaran%20B&fontSize=40&fontColor=ffffff" />
-</p>
-
+<!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Sabareeshwaran B</h1>
 <h3 align="center">🚀 AI Developer | Full Stack Developer | ECE Engineer</h3>
 
----
-
-## 👨‍💻 About Me
-
-* 🎓 B.E ECE @ Sri Eshwar College of Engineering (CGPA: 8.17)
-* 🤖 Passionate about **AI, Web Development & System Design**
-* 🌱 Currently learning **Advanced DSA, React, Backend Systems**
-* 💡 Built real-world projects using **AI + IoT + Web**
-* 🏆 Hackathon Winner & Finalist
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
-
-### 🌐 Web & Backend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot)
-
-### 🗄️ Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
-
-### 🤖 AI / Tools
-
-YOLOv8 • OpenCV • Scikit-learn • NumPy • FastAPI • WebSockets
-
----
-
-## 🚀 Projects
-
-### 🧠 NEOGUARD – NICU Intelligent Monitoring System
-
-* Real-time neonatal monitoring using ESP32 + sensors
-* Live data streaming + anomaly detection
-* Emergency alert system integration
-
-**Tech:** ESP32, Python, FastAPI, React, WebSockets
-
----
-
-### 🔥 Fire & Smoke Detection System
-
-* AI-based detection using YOLOv8
-* Real-time video stream analysis
-* Alert system with Django backend
-
-**Tech:** Python, YOLOv8, OpenCV, Django
-
----
-
-### 🏦 Online Banking System
-
-* Secure backend using Spring Boot
-* REST APIs for transactions & authentication
-* Database consistency and validation
-
-**Tech:** Java, Spring Boot, MySQL
-
----
-
-## 📊 Coding Profiles
-
-* 💻 LeetCode: 230+ Problems | 21+ Contests
-* 🧠 CodeChef: 400+ Problems
-* 🏆 SkillRack: 1000+ Problems
-* ⭐ HackerRank: Python, C, SQL
-
----
-
-## 🏆 Achievements
-
-* 🥇 Winner – Anokha’26 (₹20,000 Prize)
-* 🏅 7th Place – Technovation Hackathon
-* 🚀 Top 300 – HackWithUttarPradesh
-* 🎯 Finalist – SelFE Hackathon
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabareeshwaran16&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" />
-</p>
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sabareeshwaran16&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sabareeshwaran%20B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 🌟 About Me
 
-* 📧 [sabareeshwaran.b2024ece@sece.ac.in](mailto:sabareeshwaran.b2024ece@sece.ac.in)
-* 🔗 [LinkedIn](https://www.linkedin.com/in/sabareeshwaranb/)
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 B.E ECE @ Sri Eshwar College of Engineering  
+- 🤖 Passionate about **AI, Full Stack & System Design**  
+- 🌱 Currently learning **Advanced DSA & Backend Systems**  
+- 💡 Building real-world projects using **AI + IoT + Web**  
+- 🏆 Hackathon Winner & Finalist  
+- ⚡ Love solving coding challenges & building scalable apps  
 
 ---
 
-<p align="center">⭐️ Building real-world AI + Full Stack systems</p>
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sabareeshwaranb/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="mailto:sabareeshwaran.b2024ece@sece.ac.in">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+
+<a href="https://github.com/sabareeshwaran16">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+
+<a href="https://www.instagram.com/">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 💡 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,c,python,javascript,cpp" />
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,vite,bootstrap" />
+</p>
+
+---
+
+## 🚀 Backend & Frameworks
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,fastapi" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" />
+</p>
+
+---
+
+## ☁️ Cloud & Deployment
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render,gcp,docker" />
+</p>
+
+---
+
+## 🛠️ Tools & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
+</p>
+
+---
+
+## 🤖 AI / Data Science
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 NEOGUARD – NICU Intelligent Monitoring System
+
+🔹 Real-time neonatal monitoring using ESP32 + sensors  
+🔹 Live data streaming & anomaly detection  
+🔹 Emergency alert integration  
+
+**Tech Stack:** `ESP32` `React` `FastAPI` `WebSockets`
+
+---
+
+## 🔥 Fire & Smoke Detection System
+
+🔹 AI-based fire detection using YOLOv8  
+🔹 Real-time video processing  
+🔹 Smart emergency alert system  
+
+**Tech Stack:** `Python` `YOLOv8` `OpenCV` `Django`
+
+---
+
+## 🏦 Online Banking Management System
+
+🔹 Secure REST APIs using Spring Boot  
+🔹 Authentication & transaction management  
+🔹 Database consistency & validation  
+
+**Tech Stack:** `Java` `Spring Boot` `MySQL`
+
+---
+
+# 📊 Coding Profiles
+
+<p align="center">
+  
+<img src="https://img.shields.io/badge/LeetCode-230%2B_Problems-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/CodeChef-400%2B_Problems-brown?style=for-the-badge&logo=codechef"/>
+<img src="https://img.shields.io/badge/SkillRack-1000%2B_Problems-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HackerRank-Python_|_C_|_SQL-brightgreen?style=for-the-badge&logo=hackerrank"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🥇 Winner – **Anokha’26 Hackathon**  
+🏅 7th Place – **Technovation Hackathon**  
+🚀 Top 300 – **HackWithUttarPradesh**  
+🎯 Finalist – **SelFE Hackathon**
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sabareeshwaran16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabareeshwaran16&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=sabareeshwaran16&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabareeshwaran16&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/sabareeshwaran16/sabareeshwaran16/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 📫 Contact Me
+
+📧 **sabareeshwaran.b2024ece@sece.ac.in**  
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/sabareeshwaranb/
+
+💻 **GitHub:**  
+https://github.com/sabareeshwaran16
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabareeshwaran16&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<h3 align="center">⭐ Building Real-World AI + Full Stack Systems ⭐</h3>
