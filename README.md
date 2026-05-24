@@ -12,7 +12,7 @@
 
 ### 🚀 AI Engineer • Full Stack Developer • ECE Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+Developer;Backend+Engineer;Building+Real+World+Applications;Java+•+Python+•+React+•+SpringBoot"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+Developer;Backend+Engineer;Building+Real+World+Applications;Java+•+Python+•+React+•+SpringBoot+•+MERN Stack"/>
 
 </div>
 
